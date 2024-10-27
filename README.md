@@ -12,7 +12,7 @@
 
 Sou um apaixonado por **Tecnologia e Programação** 🚀.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" /> <!-- Aumentado para 400px de largura -->
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350px" /> <!-- Alterado para 350px de largura -->
 
 <small>
 
@@ -41,6 +41,7 @@ Sou um apaixonado por **Tecnologia e Programação** 🚀.
 <img src="https://github-readme-stats.vercel.app/api?username=hab99&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Estatísticas do GitHub de Guilherme">
 
 ⭐️ Feito por [Guilherme Nascimento](https://github.com/Hab99)
+
 
 <!---
 <h1 align="center">Oi 👋, Eu sou o Guilherme</h1>
