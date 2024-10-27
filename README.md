@@ -1,4 +1,4 @@
-<h3 title="hehehe">Oi 👋, Eu sou o Guilherme!</h3>
+<h3 title="hehehe">Olá 👋, Eu sou o Guilherme!</h3>
 
 <a href="https://www.linkedin.com/in/guilherme-nascimento-silva">
   <img align="left" alt="LinkedIn do Guilherme" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -9,10 +9,10 @@
 <br>
 <br>
 <img src="https://komarev.com/ghpvc/?username=hab99&color=blueviolet">
-<br />
-<br />
 
-Olá, eu sou **Guilherme Silva**, um apaixonado por **Tecnologia e Programação** 🚀.
+
+
+Sou um apaixonado por **Tecnologia e Programação** 🚀.
 
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
