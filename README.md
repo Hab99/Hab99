@@ -12,7 +12,7 @@
 
 Sou um apaixonado por **Tecnologia e Programação** 🚀.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300px" /> <!-- Aumentado para 300px de largura -->
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" /> <!-- Aumentado para 400px de largura -->
 
 <small>
 
