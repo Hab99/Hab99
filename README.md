@@ -25,7 +25,7 @@ Sou um apaixonado por **Tecnologia e Programação** 🚀.
 - 🤔 <sub>Tenho interesse em ferramentas como Power BI, Excel, e Google Data Studio.</sub>
 - 👯 <sub>Também compartilho meu aprendizado em programação no [Roadmap.sh](https://roadmap.sh/befriend?u=670cfac2791f57dd60ca9999).</sub>
 - 💬 <sub>Pergunte-me sobre **Python, Excel, SQL, Power BI e Google Data Studio**.</sub>
-- 📫 <sub>Entre em contato pelo meu e-mail<br>**guilhermenascimentosilva1@gmail.com**.</sub>
+- 📫 <sub>Entre em contato pelo meu e-mail**guilhermenascimentosilva1@gmail.com**.</sub>
 - 📄 <sub>[Veja minhas experiências profissionais](https://www.linkedin.com/in/guilherme-nascimento-silva).</sub>
 
 </small>
