@@ -10,11 +10,9 @@
 <br>
 <img src="https://komarev.com/ghpvc/?username=hab99&color=blueviolet">
 
-
-
 Sou um apaixonado por **Tecnologia e Programação** 🚀.
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300px" /> <!-- Aumentado para 300px de largura -->
 
 <small>
 
@@ -25,7 +23,7 @@ Sou um apaixonado por **Tecnologia e Programação** 🚀.
 - 🤔 <sub>Tenho interesse em ferramentas como Power BI, Excel, e Google Data Studio.</sub>
 - 👯 <sub>Também compartilho meu aprendizado em programação no [Roadmap.sh](https://roadmap.sh/befriend?u=670cfac2791f57dd60ca9999).</sub>
 - 💬 <sub>Pergunte-me sobre **Python, Excel, SQL, Power BI e Google Data Studio**.</sub>
-- 📫 <sub>Entre em contato pelo meu e-mail**guilhermenascimentosilva1@gmail.com**.</sub>
+- 📫 <sub>Entre em contato pelo meu e-mail **guilhermenascimentosilva1@gmail.com**.</sub>
 - 📄 <sub>[Veja minhas experiências profissionais](https://www.linkedin.com/in/guilherme-nascimento-silva).</sub>
 
 </small>
