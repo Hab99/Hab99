@@ -19,7 +19,7 @@ Sou um apaixonado por **Tecnologia e Programação** 🚀.
 **Sobre Mim!**
 
 - 🔭 <sub>Atualmente trabalho como analista jurídico na [e-Xyon](https://www.linkedin.com/company/exyon-tecnologia-informacao/mycompany/).</sub>
-- 🌱 <sub>Neste momento, estou aprendendo **Python para Análise de Dados**.</sub>
+- 🌱 <sub>Neste momento, estou aprendendo **Data engineer**.</sub>
 - 🤔 <sub>Tenho interesse em ferramentas como Power BI, Excel, e Google Data Studio.</sub>
 - 👯 <sub>Também compartilho meu aprendizado em programação no [Roadmap.sh](https://roadmap.sh/befriend?u=670cfac2791f57dd60ca9999).</sub>
 - 💬 <sub>Pergunte-me sobre **Python, Excel, SQL, Power BI e Google Data Studio**.</sub>
