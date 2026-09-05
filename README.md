@@ -1,74 +1,76 @@
-<h3 title="hehehe">Olá 👋, Eu sou o Guilherme!</h3>
+<h3>Olá 👋, eu sou o Guilherme!</h3>
 
+<a href="https://guilhermenascimento.vercel.app">
+  <img align="left" alt="Portfólio do Guilherme" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vercel.svg" />
+</a>
 <a href="https://www.linkedin.com/in/guilherme-nascimento-silva">
-  <img align="left" alt="LinkedIn do Guilherme" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn do Guilherme" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
 </a>
-<a href="https://roadmap.sh/befriend?u=670cfac2791f57dd60ca9999">
-  <img align="left" alt="Perfil no Roadmap.sh" width="24px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" />
+<a href="mailto:guilhermenascimentosilva1@gmail.com">
+  <img align="left" alt="E-mail do Guilherme" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" />
 </a>
+
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=hab99&color=blueviolet">
 
-Sou um apaixonado por **Tecnologia e Programação** 🚀.
+### 🤖 Desenvolvedor Python · Automação de Processos (RPA)
 
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350px" /> <!-- Alterado para 350px de largura -->
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="320px" />
 
-<small>
+Eu automatizo o que trava equipes: **portais bancários que não têm API**,
+**documentos que chegam aos milhares** e **sistemas que se recusam a conversar
+entre si**.
 
-**Sobre Mim!**
+Antes de programar para a operação, passei **cinco anos dentro dela** —
+analisando contratos e decisões judiciais em esteiras de grandes bancos. É de
+lá que vem a parte que não se aprende em curso: saber **qual gargalo vale a
+pena automatizar**. 🎯
 
-- 🔭 <sub>Atualmente trabalho como analista jurídico na [e-Xyon](https://www.linkedin.com/company/exyon-tecnologia-informacao/mycompany/).</sub>
-- 🌱 <sub>Neste momento, estou aprendendo **Data engineer**.</sub>
-- 🤔 <sub>Tenho interesse em ferramentas como Power BI, Excel, e Google Data Studio.</sub>
-- 👯 <sub>Também compartilho meu aprendizado em programação no [Roadmap.sh](https://roadmap.sh/befriend?u=670cfac2791f57dd60ca9999).</sub>
-- 💬 <sub>Pergunte-me sobre **Python, Excel, SQL, Power BI e Google Data Studio**.</sub>
-- 📫 <sub>Entre em contato pelo meu e-mail **guilhermenascimentosilva1@gmail.com**.</sub>
-- 📄 <sub>[Veja minhas experiências profissionais](https://www.linkedin.com/in/guilherme-nascimento-silva).</sub>
+### 🔗 **[guilhermenascimento.vercel.app](https://guilhermenascimento.vercel.app)**
 
-</small>
+<br clear="right">
 
-**Linguagens e Ferramentas:**  
+---
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
-<code><img height="20" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+**Sobre mim**
 
-<img src="https://github-readme-stats.vercel.app/api?username=hab99&show_icons=true&hide_border=true&count_private=true&theme=shades-of-purple&icon_color=fad000" alt="Estatísticas do GitHub de Guilherme">
+- 💼 Trabalho como **Desenvolvedor RPA** na [e-Xyon](https://www.linkedin.com/company/exyon-tecnologia-informacao/mycompany/), numa operação de gestão jurídica BPO.
+- 🎓 Curso **Análise e Desenvolvimento de Sistemas** no Senac.
+- 🌱 Estou expandindo da automação para **engenharia de back-end**: FastAPI, PostgreSQL, Docker.
+- 🧩 Aplico **SOLID** e padrões de projeto — Strategy, Template Method.
+- ✍️ Documento o **porquê** das decisões, não só o quê.
+- 📫 Fale comigo em **guilhermenascimentosilva1@gmail.com**.
 
-⭐️ Feito por [Guilherme Nascimento](https://github.com/Hab99)
+---
 
+**🛠️ O que eu resolvo**
 
-<!---
-<h1 align="center">Oi 👋, Eu sou o Guilherme</h1>
-<h3 align="center">Sou apaixonado por Tecnologia e Programação</h3>
+🏦 &nbsp;**Portais sem API** — quando o sistema não oferece integração, a interface vira a porta de entrada. Navegação isolada da regra de negócio, porque portal bancário muda de layout e o robô não pode quebrar inteiro por causa de um botão que mudou de lugar.
 
-- 🔭 Atualmente estou trabalhando como análista jurídico [e-Xyon](https://www.linkedin.com/company/exyon-tecnologia-informacao/mycompany/)
+📄 &nbsp;**Documentos em escala** — OCR e parsing resiliente transformando PDF e imagem em dado estruturado que o passo seguinte consegue consumir.
 
-- 🌱 Atualmente estou aprendendo **Python para Análise de Dados**
+🔌 &nbsp;**Sistemas que não conversam** — integração em ambientes virtualizados como Citrix, onde não existe DOM e a tela é a única fonte de verdade. Cada passo confirma que chegou onde deveria antes de seguir — sem isso, o robô erra em silêncio.
 
-- 👯 Também estou compartilhando meu aprendizado em programação no Roadmap.sh [Página Roadmap.sh](https://roadmap.sh/befriend?u=670cfac2791f57dd60ca9999)
+---
 
-- 💬 Me pergunte sobre **Python, Excel, SQL, Power BI e Google Data Studio**
+**⚙️ Stack**
 
-- 📫 Você me acha através do meu e-mail **guilhermenascimentosilva1@gmail.com**
+| | |
+|---|---|
+| **Automação** | `Python` `Selenium` `Playwright` `PyAutoGUI` `PyWinAuto` `Citrix/VDI` |
+| **Dados e documentos** | `Pandas` `OpenPyXL` `Tesseract OCR` `Regex` `Web scraping` |
+| **Engenharia** | `POO` `SOLID` `Git` `pytest` `Design Patterns` |
+| **Expandindo agora** | `FastAPI` `PostgreSQL` `Docker` `CI/CD` `APIs REST` |
 
-- 📄 Aqui você encontra minhas experiências profissionais [www.linkedin.com/in/guilherme-nascimento-silva](www.linkedin.com/in/guilherme-nascimento-silva)
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/guilherme-nascimento-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/guilherme-nascimento-silva" height="30" width="40" /></a>
-<a href="/https://roadmap.sh/befriend?u=670cfac2791f57dd60ca9999" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://roadmap.sh/befriend?u=670cfac2791f57dd60ca9999" height="30" width="40" /></a>
+<p>
+<a href="https://guilhermenascimento.vercel.app">
+  <img src="https://img.shields.io/badge/Portf%C3%B3lio-guilhermenascimento.vercel.app-0064FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio">
+</a>
+<a href="https://www.linkedin.com/in/guilherme-nascimento-silva">
+  <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Nascimento-0064FF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hab99&show_icons=true&locale=en&layout=compact" alt="hab99" /></p>
-
-
---->
+<sub>💬 Aberto a oportunidades em automação, Python e engenharia de software.</sub>
