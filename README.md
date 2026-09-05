@@ -1,17 +1,8 @@
 <h3>Olá 👋, eu sou o Guilherme!</h3>
 
-<a href="https://guilhermenascimento.vercel.app">
-  <img align="left" alt="Portfólio do Guilherme" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/vercel.svg" />
-</a>
-<a href="https://www.linkedin.com/in/guilherme-nascimento-silva">
-  <img align="left" alt="LinkedIn do Guilherme" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />
-</a>
-<a href="mailto:guilhermenascimentosilva1@gmail.com">
-  <img align="left" alt="E-mail do Guilherme" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/gmail.svg" />
-</a>
-
-<br>
-<br>
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-guilhermenascimento.vercel.app-0064FF?style=flat-square&logo=vercel&logoColor=white)](https://guilhermenascimento.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guilherme%20Nascimento-0064FF?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-nascimento-silva)
+[![E-mail](https://img.shields.io/badge/E--mail-Falar%20comigo-0064FF?style=flat-square&logo=gmail&logoColor=white)](mailto:guilhermenascimentosilva1@gmail.com)
 
 ### 🤖 Desenvolvedor Python · Automação de Processos (RPA)
 
@@ -63,14 +54,5 @@ pena automatizar**. 🎯
 | **Expandindo agora** | `FastAPI` `PostgreSQL` `Docker` `CI/CD` `APIs REST` |
 
 ---
-
-<p>
-<a href="https://guilhermenascimento.vercel.app">
-  <img src="https://img.shields.io/badge/Portf%C3%B3lio-guilhermenascimento.vercel.app-0064FF?style=flat-square&logo=vercel&logoColor=white" alt="Portfólio">
-</a>
-<a href="https://www.linkedin.com/in/guilherme-nascimento-silva">
-  <img src="https://img.shields.io/badge/LinkedIn-Guilherme%20Nascimento-0064FF?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-</p>
 
 <sub>💬 Aberto a oportunidades em automação, Python e engenharia de software.</sub>
